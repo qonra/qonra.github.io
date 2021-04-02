@@ -1,0 +1,1 @@
+'use strict';(function(){const a={cache:!0};a.doc={id:'id',field:['title','content'],store:['title','href','section']};const b=FlexSearch.create('balance',a);window.bookSearchIndex=b,b.add({id:0,href:'/ladstack-wiki/public/posts/hello-world/',title:"Hello World",section:"Posts",content:"benis\n"})})()
