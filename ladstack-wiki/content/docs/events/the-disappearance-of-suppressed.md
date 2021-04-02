@@ -1,5 +1,5 @@
 ---
-title: "Thomas"
+title: "The Disappearance of Suppressed"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -7,4 +7,4 @@ weight: 1
 # bookCollapseSection: false
 # bookComments: true
 ---
-heh
+Dude checked out, only joins the teamspeak for CS:GO aim matches to sweat Rust.

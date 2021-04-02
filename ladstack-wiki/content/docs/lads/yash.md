@@ -7,3 +7,4 @@ weight: 1
 # bookCollapseSection: false
 # bookComments: true
 ---
+Computer science major who should've got a business degree

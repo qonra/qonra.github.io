@@ -16,3 +16,10 @@ headless: true
   - [Wavedash]({{< relref "/docs/lads/wavedash" >}})
   - [Yash]({{< relref "/docs/lads/yash" >}})
 <br />
+
+- **Metas**
+  - [Monster Hunter: World 2021]({{< relref "/docs/events/monster-hunter-2021" >}})
+<br />
+
+- **Events**
+  - [The Disappearance of Suppressed]({{< relref "/docs/events/the-disappearance-of-suppressed" >}})

@@ -3,6 +3,17 @@ languageCode: en-us
 title: Ladstack Wiki
 theme: book
 #disablePathToLower: true
-enableGitInfo: true
+#enableGitInfo: true
 params:
+  BookTheme: "dark"
   BookMenuBundle: /menu
+  # Set source repository location.
+  # Used for 'Last Modified' and 'Edit this page' links.
+  BookRepo: https://github.com/qonra/qonra.github.io
+
+  # Enable "Edit this page" links for 'doc' page type.
+  # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
+  # Edit path must point to root directory of repo.
+  BookEditPath: edit/master/ladstack-wiki
+
+  BookLogo: /pog.jpg
