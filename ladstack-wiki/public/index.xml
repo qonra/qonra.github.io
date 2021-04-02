@@ -1,18 +1,163 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ladstack Wiki</title>
+    <title>Introduction on Ladstack Wiki</title>
     <link>https://qonra.github.io/ladstack-wiki/public/</link>
-    <description>Recent content on Ladstack Wiki</description>
+    <description>Recent content in Introduction on Ladstack Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://qonra.github.io/ladstack-wiki/public/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Apr 2021 12:19:30 +0000</lastBuildDate><atom:link href="https://qonra.github.io/ladstack-wiki/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://qonra.github.io/ladstack-wiki/public/</link>
-      <pubDate>Fri, 02 Apr 2021 14:02:23 +0000</pubDate>
+      <title>Cytotoxic</title>
+      <link>https://qonra.github.io/ladstack-wiki/public/docs/lads/cytotoxic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://qonra.github.io/ladstack-wiki/public/</guid>
-      <description>Pog</description>
+      <guid>https://qonra.github.io/ladstack-wiki/public/docs/lads/cytotoxic/</guid>
+      <description>Irish debuff x5</description>
+    </item>
+    
+    <item>
+      <title>Doecky</title>
+      <link>https://qonra.github.io/ladstack-wiki/public/docs/lads/doecky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qonra.github.io/ladstack-wiki/public/docs/lads/doecky/</guid>
+      <description>Rich</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://qonra.github.io/ladstack-wiki/public/docs/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qonra.github.io/ladstack-wiki/public/docs/hello-world/</guid>
+      <description>benis</description>
+    </item>
+    
+    <item>
+      <title>Kai</title>
+      <link>https://qonra.github.io/ladstack-wiki/public/docs/lads/kai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qonra.github.io/ladstack-wiki/public/docs/lads/kai/</guid>
+      <description>Like a panda, looks cuddly but toxic af</description>
+    </item>
+    
+    <item>
+      <title>Kami Sam</title>
+      <link>https://qonra.github.io/ladstack-wiki/public/docs/lads/kami-sam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qonra.github.io/ladstack-wiki/public/docs/lads/kami-sam/</guid>
+      <description>Pretty good at games</description>
+    </item>
+    
+    <item>
+      <title>Monster Hunter 2021</title>
+      <link>https://qonra.github.io/ladstack-wiki/public/docs/events/monster-hunter-2021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qonra.github.io/ladstack-wiki/public/docs/events/monster-hunter-2021/</guid>
+      <description>In late March of 2021, the Monster Hunter meta took over. The ego of the Monster Hunter veteran players reached heights never thought possible.</description>
+    </item>
+    
+    <item>
+      <title>Naturestemper</title>
+      <link>https://qonra.github.io/ladstack-wiki/public/docs/lads/naturestemper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qonra.github.io/ladstack-wiki/public/docs/lads/naturestemper/</guid>
+      <description>Furry</description>
+    </item>
+    
+    <item>
+      <title>Nick</title>
+      <link>https://qonra.github.io/ladstack-wiki/public/docs/lads/nick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qonra.github.io/ladstack-wiki/public/docs/lads/nick/</guid>
+      <description>Weirdo who talks about his dick too much</description>
+    </item>
+    
+    <item>
+      <title>Rawlers</title>
+      <link>https://qonra.github.io/ladstack-wiki/public/docs/lads/rawlers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qonra.github.io/ladstack-wiki/public/docs/lads/rawlers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salmon</title>
+      <link>https://qonra.github.io/ladstack-wiki/public/docs/lads/salmon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qonra.github.io/ladstack-wiki/public/docs/lads/salmon/</guid>
+      <description>Married to Hatsune Miku</description>
+    </item>
+    
+    <item>
+      <title>Suppressed</title>
+      <link>https://qonra.github.io/ladstack-wiki/public/docs/lads/suppressed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qonra.github.io/ladstack-wiki/public/docs/lads/suppressed/</guid>
+      <description>HEH</description>
+    </item>
+    
+    <item>
+      <title>The Disappearance of Suppressed</title>
+      <link>https://qonra.github.io/ladstack-wiki/public/docs/events/the-disappearance-of-suppressed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qonra.github.io/ladstack-wiki/public/docs/events/the-disappearance-of-suppressed/</guid>
+      <description>Dude checked out, only joins the teamspeak for CS:GO aim matches to sweat Rust.</description>
+    </item>
+    
+    <item>
+      <title>The Lads</title>
+      <link>https://qonra.github.io/ladstack-wiki/public/docs/lads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qonra.github.io/ladstack-wiki/public/docs/lads/</guid>
+      <description>The lads are rad</description>
+    </item>
+    
+    <item>
+      <title>Thomas</title>
+      <link>https://qonra.github.io/ladstack-wiki/public/docs/lads/thomas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qonra.github.io/ladstack-wiki/public/docs/lads/thomas/</guid>
+      <description>heh</description>
+    </item>
+    
+    <item>
+      <title>Wavedash</title>
+      <link>https://qonra.github.io/ladstack-wiki/public/docs/lads/wavedash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qonra.github.io/ladstack-wiki/public/docs/lads/wavedash/</guid>
+      <description>Tallest object in Belgium</description>
+    </item>
+    
+    <item>
+      <title>Yash</title>
+      <link>https://qonra.github.io/ladstack-wiki/public/docs/lads/yash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://qonra.github.io/ladstack-wiki/public/docs/lads/yash/</guid>
+      <description>Computer science major who should&amp;rsquo;ve got a business degree</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://qonra.github.io/ladstack-wiki/public/posts/hello-world/</link>
+      <pubDate>Fri, 02 Apr 2021 12:19:30 +0000</pubDate>
+      
+      <guid>https://qonra.github.io/ladstack-wiki/public/posts/hello-world/</guid>
+      <description>benis</description>
     </item>
     
   </channel>
