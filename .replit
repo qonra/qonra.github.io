@@ -1,2 +1,2 @@
 language = "go"
-run = ""
+run = "cd ladstack-wiki; ../hugo server --appendPort=false --baseURL=https://qonragithubio.hermantnet.repl.co/ladstack-wiki/public/ --bind=0.0.0.0 -D"

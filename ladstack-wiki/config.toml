@@ -1,4 +1,4 @@
-baseURL = "0.0.0.0"
+baseURL = "https://qonra.github.io/ladstack-wiki/public/"
 languageCode = "en-us"
 title = "Ladstack Wiki"
 theme = "book"
