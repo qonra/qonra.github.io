@@ -29,7 +29,7 @@ jobs:
       - name: Build site
         run: |
           cd $GITHUB_WORKSPACE
-          ./hugo -D --source=$GITHUB_WORKSPACE/ladstack-wiki
+          sudo ./hugo -D --source=$GITHUB_WORKSPACE/ladstack-wiki
           
       - name: Create Pull Request for master
         uses: peter-evans/create-pull-request@v3
