@@ -30,7 +30,7 @@ jobs:
         run: |
           cd $GITHUB_WORKSPACE/ladstack-wiki
           pwd
-          $GITHUB_WORKSPACE/hugo -D
+          sudo $GITHUB_WORKSPACE/hugo -D
           
       - name: Create Pull Request for master
         uses: peter-evans/create-pull-request@v3
