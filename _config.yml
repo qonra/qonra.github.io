@@ -1,8 +1,11 @@
 exclude: [
  hugo,
  hugo_extended_0.82.0_Linux64bit.tar.gz,
- /ladstack-wiki
-]
-include: [
-  /ladstack-wiki/public
+ /ladstack-wiki/archetypes,
+ /ladstack-wiki/content,
+ /ladstack-wiki/data,
+ /ladstack-wiki/layouts,
+ /ladstack-wiki/resources,
+ /ladstack-wiki/themes,
+ /ladstack-wiki/config.yaml
 ]
