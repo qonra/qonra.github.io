@@ -3,6 +3,6 @@ title: Introduction
 type: docs
 ---
 
-# Pog
+![Lads ramen](/ladstack-wiki/public/lads_ramen.png)
 
-{{< youtube 2cRyiBchZPA >}}
+The official historical record of clout

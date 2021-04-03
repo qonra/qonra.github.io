@@ -8,3 +8,5 @@ weight: 1
 # bookComments: true
 ---
 Irish debuff x5
+
+![Shoes in bed](/ladstack-wiki/public/connor_shoes.jpg)

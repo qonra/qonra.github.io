@@ -8,3 +8,5 @@ weight: 1
 # bookComments: true
 ---
 HEH
+
+![Old man](/ladstack-wiki/public/old_man_hans.jpg)

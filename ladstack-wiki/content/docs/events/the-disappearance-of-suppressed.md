@@ -7,4 +7,10 @@ weight: 1
 # bookCollapseSection: false
 # bookComments: true
 ---
-Dude checked out, only joins the teamspeak for CS:GO aim matches to sweat Rust.
+{{< youtube 9A-J6Bm0lNA >}}
+
+Dude checked out, only joins the teamspeak for CS:GO aim matches and to sweat Rust.
+
+### Goodnight, sweet angel
+
+![Hans leaves for the last time](/ladstack-wiki/public/goodbye_hans.png)
