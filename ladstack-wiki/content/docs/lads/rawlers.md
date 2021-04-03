@@ -8,3 +8,4 @@ weight: 1
 # bookComments: true
 ---
 ![Pog](/ladstack-wiki/public/pog.jpg)
+{{< tweet 1278964416827002881 >}}
