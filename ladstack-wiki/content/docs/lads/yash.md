@@ -8,3 +8,5 @@ weight: 1
 # bookComments: true
 ---
 Computer science major who should've got a business degree
+
+{{< youtube DSgzfs8MzxY >}}
