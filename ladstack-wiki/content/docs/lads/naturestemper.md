@@ -9,6 +9,5 @@ weight: 1
 ---
 Furry
 
-{{< instagram B84u6skHa4x >}}
 {{< youtube MGsl-ClCzHU >}}
 {{< tweet 1274742055722520576 >}}
