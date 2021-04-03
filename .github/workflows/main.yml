@@ -27,7 +27,7 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Build site
-        run: chmod -X $GITHUB_WORKSPACE/hugo; $GITHUB_WORKSPACE/hugo -D --source=$GITHUB_WORKSPACE/ladstack-wiki
+        run: sudo $GITHUB_WORKSPACE/hugo -D --source=$GITHUB_WORKSPACE/ladstack-wiki
           
       - name: Create Pull Request for master
         uses: peter-evans/create-pull-request@v3
