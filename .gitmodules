@@ -1,0 +1,3 @@
+[submodule "ladstack-wiki/themes/book"] 
+  path = ladstack-wiki/themes/book 
+  url = https://github.com/alex-shpak/hugo-book
