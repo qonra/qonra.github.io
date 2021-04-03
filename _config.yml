@@ -1,0 +1,8 @@
+exclude: [
+ hugo,
+ hugo_extended_0.82.0_Linux64bit.tar.gz,
+ /ladstack-wiki
+]
+include: [
+  /ladstack-wiki/public
+]
